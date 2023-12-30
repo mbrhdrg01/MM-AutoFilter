@@ -8,10 +8,10 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Hansaka Anuhas
-★ Username: @Hansaka_Anuhas
-★ ID: <code>5493832202</code>
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: ZKP143
+★ Username: @ZKP143
+★ ID: <code>561339410</code>
+★ Country: INDIA 🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -90,7 +90,8 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<i>{file_name}</i>
+    FILE_CAPTION = """
+    <code>{file_caption}</code>\n\n<b>♻️ 𝙅𝙊𝙄𝙉 :- [@MalluMoviesGroup01](https://t.me/+y9sbHWf6GN02MWE1)</b>\n<b>♻️ 𝙅𝙊𝙄𝙉 :- [Ꮭคนrēຖ Şน๓๓ēr](http://t.me/MalluMoviesRequestBot)</b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
@@ -136,6 +137,6 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/SL-Bots-TG/Auto-Filter-Bot>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/+21-626z8Zko3YWU1>ʜᴇʀᴇ</a>
 
-ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://t.me/SL_Bots_Updates>SL_Bots</a>"""
+ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://t.me/MalluMoviesGroup01>Ꮭคนrēຖ Şน๓๓ēr</a>"""
